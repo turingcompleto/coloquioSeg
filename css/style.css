@@ -80,3 +80,30 @@ header {
    
     color: white;
 }
+footer{
+ background:rgba(0, 0, 0, 0.96);
+}
+footer li{
+    list-style: none;
+    font-size: 15.8px;
+    color: #bfbfbf;
+    padding-left: 15px;
+}
+footer small{
+    color: white;
+}
+footer h5{
+    color: white;
+}
+
+footer address{
+color:#bfbfbf
+}
+footer p {
+    margin-bottom: 5px;
+    font-size: 13.8px;
+}
+footer h2{
+    margin-bottom: 25px;
+}
+
