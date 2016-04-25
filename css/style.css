@@ -1,0 +1,82 @@
+
+#portada{
+    background: url(../img/1410365872459.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
+.titulin{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+/*STICKY BAR */
+.navbar-form input, .form-inline input {
+	width:auto;
+}
+
+header {
+	
+}
+
+
+#nav.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:10;
+}
+
+#sidebar.affix-top {
+    position: static;
+}
+
+#sidebar.affix {
+    position: fixed;
+   
+}
+/***FIN de sticky bar**/
+
+.navbar-inverse {
+    background-image: linear-gradient(to bottom,rgba(60, 60, 60, 0) 0,rgba(34, 34, 34, 0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3c3c3c', endColorstr='#ff222222', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    background-repeat: repeat-x;
+    border-radius: 4px;
+}
+.navbar-inverse {
+    background: rgba(0, 0, 0, 0.86);
+}
+
+.margen{
+    margin-top: 1%;
+}
+#titulo{
+    padding-top:8%;
+    padding-bottom: 13%;
+}
+
+#titulo h3{
+    font-family: 'Neuton', serif;
+}
+
+.apoyo{
+     background: url(../img/conference%20for%20good%20governance.jpg);
+    background-repeat: space;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#speakers{
+     background: #030322;
+   
+    color: white;
+}
