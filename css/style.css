@@ -64,7 +64,7 @@ header {
 }
 
 .apoyo{
-     background: url(../img/conference%20for%20good%20governance.jpg);
+     background: url(../img/COLOQUIO%20SEGURIDAD.jpg);
     background-repeat: space;
     background-size: cover;
     background-position: center;
@@ -106,4 +106,20 @@ footer p {
 footer h2{
     margin-bottom: 25px;
 }
+article ul li{
+    
+    list-style: none;
+    
+}
 
+
+.altura {
+    margin-bottom: 30px;
+}
+
+article h4{
+    margin-bottom: 35px;
+}
+.altura-2 {
+    margin-top: 20px;
+}
