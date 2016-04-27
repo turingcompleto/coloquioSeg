@@ -1,11 +1,15 @@
 
 #portada{
-    background: url(../img/1410365872459.jpg);
-    background-repeat: no-repeat;
+    background: url(../img/COLOQUIO%20SEGURIDAD.jpg);
+    background-repeat: repeat-x repeat-y;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     color: white;
+    height: 370px;
+}
+.background1{
+    background: #092b42;
 }
 .titulin{
     font-family: 'Montserrat', sans-serif;
@@ -17,11 +21,6 @@
 .navbar-form input, .form-inline input {
 	width:auto;
 }
-
-header {
-	
-}
-
 
 #nav.affix {
     position: fixed;
@@ -55,8 +54,7 @@ header {
     margin-top: 1%;
 }
 #titulo{
-    padding-top:8%;
-    padding-bottom: 13%;
+    color: white;
 }
 
 #titulo h3{
