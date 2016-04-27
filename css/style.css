@@ -1,9 +1,9 @@
 
 #portada{
     background: url(../img/COLOQUIO%20SEGURIDAD.jpg);
-    background-repeat: repeat-x repeat-y;
-    background-size: cover;
-    background-position: center;
+    background-repeat: round;
+    background-size: contain;
+    
     background-attachment: fixed;
     color: white;
     height: 370px;
