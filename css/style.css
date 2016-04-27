@@ -1,12 +1,16 @@
 
 #portada{
-    background: url(../img/COLOQUIO%20SEGURIDAD.jpg);
+    background: url(../img/fondoEnGris.png);
     background-repeat: round;
     background-size: contain;
-    
+
     background-attachment: fixed;
     color: white;
     height: 370px;
+    text-align: center;
+}
+#portada-img{
+
 }
 .background1{
     background: #092b42;
@@ -35,7 +39,7 @@
 
 #sidebar.affix {
     position: fixed;
-   
+
 }
 /***FIN de sticky bar**/
 
@@ -62,7 +66,7 @@
 }
 
 .apoyo{
-     background: url(../img/COLOQUIO%20SEGURIDAD.jpg);
+     background: url(../img/fondoEnGris.png);
     background-repeat: space;
     background-size: cover;
     background-position: center;
@@ -75,7 +79,7 @@
 
 #speakers{
      background: #030322;
-   
+
     color: white;
 }
 footer{
@@ -105,9 +109,9 @@ footer h2{
     margin-bottom: 25px;
 }
 article ul li{
-    
+
     list-style: none;
-    
+
 }
 
 
