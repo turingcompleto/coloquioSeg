@@ -125,3 +125,9 @@ article h4{
 .altura-2 {
     margin-top: 20px;
 }
+footer{
+  text-align: center;
+}
+footer h2>small{
+  color: gray;
+}
